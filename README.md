@@ -1,7 +1,7 @@
 # Planilha
 Desafio de uma planilha de gastos pessoais
 <p align="center">
-    <img width="300" src="assets/Planilha.jpg">
+    <img width="500" src="assets/Planilha.jpg">
 </p>
 
 
