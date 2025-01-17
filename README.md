@@ -11,31 +11,31 @@ Desafio de uma planilha de gastos pessoais
 
 
 
-# Projeto Ebook "Mercado Sombrio: Seus Dados à Venda" Gerado por I.A.s
+# Projeto Planilha de gasto pessoal
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp "Caixa IA Generativa com Microsoft Copilot", no qual fui aluno na plataforma da [DIO](https://dio.me)
 <br/><br/>
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar uma planilha de gastos pessoais.
+
 
 <a href="https://github.com/Alyssoncaio/Ebook-do-zero/blob/main/Output/Ebook_Dark_Web.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
+- [Microsoft Office Excel 2007](https://www.office.com/) 
 - [Leonardo A.i.](https://leonardo.ai//)  Foi indicado utilizar a ferramenta "Midjourney", porém atualmente 2024/2025 a mesma é paga.
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Flaticon](https://www.flaticon.com/br/) Ícones para uso na Dashboard  
+
 
 ## 🧠 Prompts
-
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre um tema da dark web, o ebook é do nicho de hacker e subnicho  do comércio de dados pessoais, o título deve ser assustador e curto e tenha uma temática de segurança, me liste 05 variações de titulos                                                        |
-| conteúdo | Faça um texto para ebook, com foco da dark web e o comércio de dados pessoais {REGRAS} >Explique sempre de maneira simples >Deixe o texto enxuto >Sempre traga exemplos de cuidados em contexto reais >Sempre deixe um título sugestivo por tópico |
+|  Insights  | Utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                       |
+|  |
 
 
 Leonardo：
