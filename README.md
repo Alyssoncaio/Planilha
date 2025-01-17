@@ -33,9 +33,9 @@ Projeto com o objetivo de gerar uma planilha de gastos pessoais.
 
 <br>
 <br>
-<b>
-## 🧠 Prompts 
-<hr>
+
+## 🧠 <b>Prompts 
+
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
@@ -63,7 +63,8 @@ Leonardo：
 
 <br>
 <br>
-## 📚 Materiais
+
+## 📚 <b>Materiais
 
 - Insights em `assets`
 - Imagens e ícones utilizadas em `assets`
