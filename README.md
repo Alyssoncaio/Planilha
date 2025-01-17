@@ -35,8 +35,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Insights  | Utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                       |
-|  |
+|  Insights  | Utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                       | 
+|
 
 
 Leonardo：
@@ -51,13 +51,14 @@ Leonardo：
 ## ✨ Features
 
 - Conteúdo feito manualmente no Microsoft Excel
-- Conteúdo gerado via ChatGPT
+- Insights gerado via ChatGPT
 - Imagens geradas via Leonardo A.I.
 
 <br>
 
 ## 📚 Materiais
 
+- Insights em `assets`
 - Imagens e ícones utilizadas em `assets`
 - Planilha elaborada durante as aulas em `output`
 <br>
