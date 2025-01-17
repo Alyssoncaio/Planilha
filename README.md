@@ -1,6 +1,6 @@
 # Planilha
 Desafio de uma planilha de gastos pessoais
-<p align="center">
+<p align="left">
     <img width="500" src="assets/Planilha.jpg">
 </p>
 
@@ -42,7 +42,7 @@ Leonardo：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A hooded figure, known as a hacker, is rummaging through a user's personal information on a website in a dim, eerie, and atmospheric crepuscular environment. |
+| título | Create a personal expense spreadsheet image with high resolution and rich details and with reference to Microsoft Excel. |
 
 
 <br>
