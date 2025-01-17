@@ -41,7 +41,6 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Insights  | Utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                       | 
-|
 
 
 Leonardo：
