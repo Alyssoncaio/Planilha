@@ -28,7 +28,7 @@ Projeto com o objetivo de gerar uma planilha de gastos pessoais.
 
 - [ChatGPT](https://chat.openai.com/)
 - [Microsoft Office Excel 2007](https://www.office.com/) 
-- [Leonardo A.i.](https://leonardo.ai//)  Foi indicado utilizar a ferramenta "Midjourney", porém atualmente 2024/2025 a mesma é paga.
+- [Leonardo A.i.](https://leonardo.ai//)  
 - [Flaticon](https://www.flaticon.com/br/) Ícones para uso na Dashboard  
 
 <br>
@@ -65,7 +65,7 @@ Leonardo：
 
 ## 📚 <b>Materiais
 
-- Insights em `assets`
+- Insights Prompt ChatGPT.pdf `output`
 - Imagens e ícones utilizadas em `assets`
 - Planilha elaborada durante as aulas em `output`
 <br>
