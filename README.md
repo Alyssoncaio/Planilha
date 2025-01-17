@@ -35,7 +35,7 @@ Projeto com o objetivo de gerar uma planilha de gastos pessoais.
 <br>
 <b>
 ## 🧠 Prompts 
-
+<hr>
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
