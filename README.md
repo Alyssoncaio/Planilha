@@ -33,7 +33,7 @@ Projeto com o objetivo de gerar uma planilha de gastos pessoais.
 
 <br>
 <br>
-## 🧠 Prompts
+## 🧠 Prompts <b>
 
 ChatGPT：
 
