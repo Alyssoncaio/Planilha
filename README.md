@@ -31,7 +31,8 @@ Projeto com o objetivo de gerar uma planilha de gastos pessoais.
 - [Leonardo A.i.](https://leonardo.ai//)  Foi indicado utilizar a ferramenta "Midjourney", porém atualmente 2024/2025 a mesma é paga.
 - [Flaticon](https://www.flaticon.com/br/) Ícones para uso na Dashboard  
 
-
+<br>
+<br>
 ## 🧠 Prompts
 
 ChatGPT：
@@ -50,6 +51,8 @@ Leonardo：
 
 
 <br>
+<br>
+
 
 ## ✨ Features
 
@@ -58,14 +61,15 @@ Leonardo：
 - Imagens geradas via Leonardo A.I.
 
 <br>
-
+<br>
 ## 📚 Materiais
 
 - Insights em `assets`
 - Imagens e ícones utilizadas em `assets`
 - Planilha elaborada durante as aulas em `output`
 <br>
-
+<br>
+  
 ## 👨‍💻 Expert
 
 <p>
